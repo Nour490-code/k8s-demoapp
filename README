@@ -1,4 +1,4 @@
-#K8S Demo Project
+###K8S Demo Project
 This repo implements an online example to utilize kubernetes features (svcs,pods, and deployments).The project simply runs a webapp and a Mongo DB on 2 different pods using k8s deployments.
 
 ##Resources & References
